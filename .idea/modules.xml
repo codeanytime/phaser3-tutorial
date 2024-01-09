@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/phaser3-tutorial.iml" filepath="$PROJECT_DIR$/.idea/phaser3-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-chat.iml" filepath="$PROJECT_DIR$/room-chat.iml" />
     </modules>
   </component>
 </project>

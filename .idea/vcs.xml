@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SkyOffice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/react-phaser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-phaser-three-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webgame-template" vcs="Git" />
   </component>
 </project>
